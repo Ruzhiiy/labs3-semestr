@@ -1,0 +1,15 @@
+/home/avm/URFU/TechsProg/LabsJava/projects/lab8/src/main/java/eight/lab/EightLabApplication.java
+/home/avm/URFU/TechsProg/LabsJava/projects/lab8/src/main/java/eight/lab/config/MvcConfig.java
+/home/avm/URFU/TechsProg/LabsJava/projects/lab8/src/main/java/eight/lab/config/WebSecurityConfig.java
+/home/avm/URFU/TechsProg/LabsJava/projects/lab8/src/main/java/eight/lab/controller/SecurityController.java
+/home/avm/URFU/TechsProg/LabsJava/projects/lab8/src/main/java/eight/lab/controller/StudentController.java
+/home/avm/URFU/TechsProg/LabsJava/projects/lab8/src/main/java/eight/lab/dto/UserDto.java
+/home/avm/URFU/TechsProg/LabsJava/projects/lab8/src/main/java/eight/lab/entity/Role.java
+/home/avm/URFU/TechsProg/LabsJava/projects/lab8/src/main/java/eight/lab/entity/Student.java
+/home/avm/URFU/TechsProg/LabsJava/projects/lab8/src/main/java/eight/lab/entity/User.java
+/home/avm/URFU/TechsProg/LabsJava/projects/lab8/src/main/java/eight/lab/repository/RoleRepository.java
+/home/avm/URFU/TechsProg/LabsJava/projects/lab8/src/main/java/eight/lab/repository/StudentRepository.java
+/home/avm/URFU/TechsProg/LabsJava/projects/lab8/src/main/java/eight/lab/repository/UserRepository.java
+/home/avm/URFU/TechsProg/LabsJava/projects/lab8/src/main/java/eight/lab/service/CastomUserDetailService.java
+/home/avm/URFU/TechsProg/LabsJava/projects/lab8/src/main/java/eight/lab/service/UserService.java
+/home/avm/URFU/TechsProg/LabsJava/projects/lab8/src/main/java/eight/lab/service/UserServiceImpl.java
